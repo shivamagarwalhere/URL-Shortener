@@ -20,11 +20,11 @@ This repository contains a URL shortener service built with Node.js and EJS. It 
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](home_screen.png)
 *Home screen showing generated links and their click counts*
 
-![Login Page](screenshots/login_page.png)
+![Login Page](login_page.png)
 *Login page for user authentication*
 
-![Signup Page](screenshots/signup_page.png)
+![Signup Page](signup_page.png)
 *Signup page for new user registration*
